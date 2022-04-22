@@ -3,7 +3,7 @@ import requests
 
 # LISTA DE CANDIDATOS - NACIONAL
 
-for id_solicitud_lista in range(14435,16860):
+for id_solicitud_lista in range(16860,16861):
     url = f'https://apiplataformaelectoral.jne.gob.pe/api/v1/candidato/candidatos-lista-internas/{id_solicitud_lista}'
     resp = requests.get(url=url, verify=False)
     data = resp.json()['data']
