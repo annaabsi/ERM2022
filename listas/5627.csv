@@ -1,0 +1,9 @@
+,idListaCandidatoInt,idTipoCandidato,txTipoCandidato,idTipoDocumento,txTipoDocumento,txDocumentoIdentidad,txNombreCompleto,idCargoEleccion,txCargoEleccion,txUbigeoConsejero,txDescUbigeoConsejero,nuPosicion,txSexo,txDescSexo,nuEdad,fgNativo,fgValidarNativo,fgFormula,numNumeroCandidato,txAlertasTexto,txRutaArchivo,idSolicitudLista
+0,55100,72,TITULAR FORMULA,6,DOCUMENTO NACIONAL DE IDENTIDAD,26709024,JUAN ILMAN CHACON,10,ALCALDE DISTRITAL,,,0,1,MASCULINO,48,0,0,1,1,,,5627
+1,55101,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,1,,FEMENINO,0,0,0,0,2,,,5627
+2,55102,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,2,,FEMENINO,0,0,0,0,3,,,5627
+3,55103,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,3,,FEMENINO,0,0,0,0,4,,,5627
+4,55104,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,4,,FEMENINO,0,0,0,0,5,,,5627
+5,55105,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,5,,FEMENINO,0,0,0,0,6,,,5627
+6,55106,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,6,,FEMENINO,0,0,0,0,7,,,5627
+7,55107,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,7,,FEMENINO,0,0,0,0,8,,,5627
