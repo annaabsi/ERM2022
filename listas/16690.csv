@@ -1,0 +1,7 @@
+,idListaCandidatoInt,idTipoCandidato,txTipoCandidato,idTipoDocumento,txTipoDocumento,txDocumentoIdentidad,txNombreCompleto,idCargoEleccion,txCargoEleccion,txUbigeoConsejero,txDescUbigeoConsejero,nuPosicion,txSexo,txDescSexo,nuEdad,fgNativo,fgValidarNativo,fgFormula,numNumeroCandidato,txAlertasTexto,txRutaArchivo,idSolicitudLista
+0,176609,72,TITULAR FORMULA,6,DOCUMENTO NACIONAL DE IDENTIDAD,42318538,WILBER CABRERA ARANA,10,ALCALDE DISTRITAL,,,0,1,MASCULINO,42,0,0,1,1,,,16690
+1,176610,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,1,,FEMENINO,0,0,0,0,2,,,16690
+2,176611,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,2,,FEMENINO,0,0,0,0,3,,,16690
+3,176612,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,3,,FEMENINO,0,0,0,0,4,,,16690
+4,176613,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,4,,FEMENINO,0,0,0,0,5,,,16690
+5,176614,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,5,,FEMENINO,0,0,0,0,6,,,16690

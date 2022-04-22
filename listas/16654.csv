@@ -1,0 +1,7 @@
+,idListaCandidatoInt,idTipoCandidato,txTipoCandidato,idTipoDocumento,txTipoDocumento,txDocumentoIdentidad,txNombreCompleto,idCargoEleccion,txCargoEleccion,txUbigeoConsejero,txDescUbigeoConsejero,nuPosicion,txSexo,txDescSexo,nuEdad,fgNativo,fgValidarNativo,fgFormula,numNumeroCandidato,txAlertasTexto,txRutaArchivo,idSolicitudLista
+0,176116,72,TITULAR FORMULA,0,,,  ,10,ALCALDE DISTRITAL,,,0,,FEMENINO,0,0,0,1,1,,,16654
+1,176117,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,1,,FEMENINO,0,0,0,0,2,,,16654
+2,176118,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,2,,FEMENINO,0,0,0,0,3,,,16654
+3,176119,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,3,,FEMENINO,0,0,0,0,4,,,16654
+4,176120,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,4,,FEMENINO,0,0,0,0,5,,,16654
+5,176121,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,5,,FEMENINO,0,0,0,0,6,,,16654

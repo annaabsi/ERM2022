@@ -1,0 +1,7 @@
+,idListaCandidatoInt,idTipoCandidato,txTipoCandidato,idTipoDocumento,txTipoDocumento,txDocumentoIdentidad,txNombreCompleto,idCargoEleccion,txCargoEleccion,txUbigeoConsejero,txDescUbigeoConsejero,nuPosicion,txSexo,txDescSexo,nuEdad,fgNativo,fgValidarNativo,fgFormula,numNumeroCandidato,txAlertasTexto,txRutaArchivo,idSolicitudLista
+0,154369,72,TITULAR FORMULA,6,DOCUMENTO NACIONAL DE IDENTIDAD,47518056,JHONATAN DAVID MALDONADO SOLANO,10,ALCALDE DISTRITAL,,,0,1,MASCULINO,30,0,0,1,1,,,14946
+1,154370,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,1,,FEMENINO,0,0,0,0,2,,,14946
+2,154371,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,2,,FEMENINO,0,0,0,0,3,,,14946
+3,154372,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,3,,FEMENINO,0,0,0,0,4,,,14946
+4,154373,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,4,,FEMENINO,0,0,0,0,5,,,14946
+5,154374,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,5,,FEMENINO,0,0,0,0,6,,,14946

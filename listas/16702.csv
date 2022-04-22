@@ -1,0 +1,7 @@
+,idListaCandidatoInt,idTipoCandidato,txTipoCandidato,idTipoDocumento,txTipoDocumento,txDocumentoIdentidad,txNombreCompleto,idCargoEleccion,txCargoEleccion,txUbigeoConsejero,txDescUbigeoConsejero,nuPosicion,txSexo,txDescSexo,nuEdad,fgNativo,fgValidarNativo,fgFormula,numNumeroCandidato,txAlertasTexto,txRutaArchivo,idSolicitudLista
+0,176717,72,TITULAR FORMULA,6,DOCUMENTO NACIONAL DE IDENTIDAD,08499978,ARTURO PORRAS REYNA,10,ALCALDE DISTRITAL,,,0,1,MASCULINO,60,0,0,1,1,,,16702
+1,176718,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,1,,FEMENINO,0,0,0,0,2,,,16702
+2,176719,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,2,,FEMENINO,0,0,0,0,3,,,16702
+3,176720,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,3,,FEMENINO,0,0,0,0,4,,,16702
+4,176721,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,4,,FEMENINO,0,0,0,0,5,,,16702
+5,176722,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,5,,FEMENINO,0,0,0,0,6,,,16702

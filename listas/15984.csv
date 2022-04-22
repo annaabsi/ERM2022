@@ -1,0 +1,7 @@
+,idListaCandidatoInt,idTipoCandidato,txTipoCandidato,idTipoDocumento,txTipoDocumento,txDocumentoIdentidad,txNombreCompleto,idCargoEleccion,txCargoEleccion,txUbigeoConsejero,txDescUbigeoConsejero,nuPosicion,txSexo,txDescSexo,nuEdad,fgNativo,fgValidarNativo,fgFormula,numNumeroCandidato,txAlertasTexto,txRutaArchivo,idSolicitudLista
+0,167667,72,TITULAR FORMULA,6,DOCUMENTO NACIONAL DE IDENTIDAD,20024903,TOMAS JULIO MARI CEVALLOS,10,ALCALDE DISTRITAL,,,0,1,MASCULINO,67,0,0,1,1,,,15984
+1,167668,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,1,,FEMENINO,0,0,0,0,2,,,15984
+2,167669,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,2,,FEMENINO,0,0,0,0,3,,,15984
+3,167670,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,3,,FEMENINO,0,0,0,0,4,,,15984
+4,167671,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,4,,FEMENINO,0,0,0,0,5,,,15984
+5,167672,73,TITULAR,0,,,  ,11,REGIDOR DISTRITAL,,,5,,FEMENINO,0,0,0,0,6,,,15984

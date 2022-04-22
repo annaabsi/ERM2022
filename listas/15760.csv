@@ -1,0 +1,7 @@
+,idListaCandidatoInt,idTipoCandidato,txTipoCandidato,idTipoDocumento,txTipoDocumento,txDocumentoIdentidad,txNombreCompleto,idCargoEleccion,txCargoEleccion,txUbigeoConsejero,txDescUbigeoConsejero,nuPosicion,txSexo,txDescSexo,nuEdad,fgNativo,fgValidarNativo,fgFormula,numNumeroCandidato,txAlertasTexto,txRutaArchivo,idSolicitudLista
+0,164604,72,TITULAR FORMULA,6,DOCUMENTO NACIONAL DE IDENTIDAD,23835825,ANTOLIN HUILLCA HUARHUA,8,ALCALDE PROVINCIAL,,,0,1,MASCULINO,57,0,0,1,1,,,15760
+1,164605,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,1,,FEMENINO,0,0,1,0,2,,,15760
+2,164606,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,2,,FEMENINO,0,0,1,0,3,,,15760
+3,164607,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,3,,FEMENINO,0,0,1,0,4,,,15760
+4,164608,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,4,,FEMENINO,0,0,1,0,5,,,15760
+5,164609,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,5,,FEMENINO,0,0,1,0,6,,,15760
