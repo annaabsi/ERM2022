@@ -1,0 +1,7 @@
+,idListaCandidatoInt,idTipoCandidato,txTipoCandidato,idTipoDocumento,txTipoDocumento,txDocumentoIdentidad,txNombreCompleto,idCargoEleccion,txCargoEleccion,txUbigeoConsejero,txDescUbigeoConsejero,nuPosicion,txSexo,txDescSexo,nuEdad,fgNativo,fgValidarNativo,fgFormula,numNumeroCandidato,txAlertasTexto,txRutaArchivo,idSolicitudLista
+0,8975,72,TITULAR FORMULA,6,DOCUMENTO NACIONAL DE IDENTIDAD,42351123,WILLIAN FRANKLIN CAJAHUAMAN VELIZ,8,ALCALDE PROVINCIAL,,,0,1,MASCULINO,38,0,0,1,1,,,840
+1,8976,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,1,,FEMENINO,0,0,1,0,2,,,840
+2,8977,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,2,,FEMENINO,0,0,1,0,3,,,840
+3,8978,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,3,,FEMENINO,0,0,1,0,4,,,840
+4,8979,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,4,,FEMENINO,0,0,1,0,5,,,840
+5,8980,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,5,,FEMENINO,0,0,1,0,6,,,840

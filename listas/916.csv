@@ -1,0 +1,11 @@
+,idListaCandidatoInt,idTipoCandidato,txTipoCandidato,idTipoDocumento,txTipoDocumento,txDocumentoIdentidad,txNombreCompleto,idCargoEleccion,txCargoEleccion,txUbigeoConsejero,txDescUbigeoConsejero,nuPosicion,txSexo,txDescSexo,nuEdad,fgNativo,fgValidarNativo,fgFormula,numNumeroCandidato,txAlertasTexto,txRutaArchivo,idSolicitudLista
+0,9763,72,TITULAR FORMULA,0,,,  ,8,ALCALDE PROVINCIAL,,,0,,FEMENINO,0,0,0,1,1,,,916
+1,9764,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,1,,FEMENINO,0,0,0,0,2,,,916
+2,9765,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,2,,FEMENINO,0,0,0,0,3,,,916
+3,9766,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,3,,FEMENINO,0,0,0,0,4,,,916
+4,9767,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,4,,FEMENINO,0,0,0,0,5,,,916
+5,9768,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,5,,FEMENINO,0,0,0,0,6,,,916
+6,9769,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,6,,FEMENINO,0,0,0,0,7,,,916
+7,9770,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,7,,FEMENINO,0,0,0,0,8,,,916
+8,9771,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,8,,FEMENINO,0,0,0,0,9,,,916
+9,9772,73,TITULAR,0,,,  ,9,REGIDOR PROVINCIAL,,,9,,FEMENINO,0,0,0,0,10,,,916
