@@ -23,6 +23,6 @@ import requests
 df1 = pd.read_csv('candidatos_general_limpio.csv')
 df2 = pd.read_csv('partidos_general.csv')
 
-df_merged = df1.merge(df2, how='inner', on='idSolicitudLista').drop(columns=['Unnamed: 0.1_x','Unnamed: 0_x','idListaCandidatoInt','idTipoCandidato','idTipoDocumento','txTipoDocumento','idCargoEleccion','txSexo','Unnamed: 0.1_y','Unnamed: 0_y','numCandidatos','idTipoEleccion','numTotalCandidatoHombre','numTotalCandidatoMujer','fgFormula','numNumeroCandidato','fgTieneAccesitario','numTotalAccesitarios','numTotalObligatorios'])
+df_merged = df1.merge(df2, how='inner', on='idSolicitudLista').drop(columns=['Unnamed: 0.1','Unnamed: 0_x','idListaCandidatoInt','idTipoCandidato','idTipoDocumento','txTipoDocumento','idCargoEleccion','txSexo','Unnamed: 0_y','numCandidatos','idTipoEleccion','numTotalCandidatoHombre','numTotalCandidatoMujer','fgFormula','numNumeroCandidato','fgTieneAccesitario','numTotalAccesitarios','numTotalObligatorios', 'txAlertasTexto','txRutaArchivo']).set_index('idSolicitudLista')
 
 df_merged.to_csv('base_datos_final.csv')
