@@ -1,6 +1,8 @@
 import pandas as pd
 import requests
 import urllib.parse
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # LISTAR CANDIDATO
 
