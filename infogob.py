@@ -62,11 +62,8 @@ for dni_candidato, url_candidato in candidatos.itertuples(index=False):
         about = r.html.find('tr')
         for idx, partido in list(enumerate(about))[1:]:
             dict[dni_candidato][idx] = partido.text.split('\n',5)[:5]
-
     except:
         continue
 
 df = pd.DataFrame.from_dict(dict, orient="index")
-df = df.apply(pd.Series.explode)
-df = df.T
 df.to_csv("procesos_electorales_alcaldes_provinciales.csv")
