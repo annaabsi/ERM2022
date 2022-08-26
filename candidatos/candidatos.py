@@ -3,16 +3,16 @@ import requests
 
 # LISTA DE CANDIDATOS
 
-df_regionales = pd.read_json('regionales.json')
+df_provinciales = pd.read_json('provinciales.json')
 
-for txCodExpedienteExt in df_regionales['txCodExpedienteExt']:
+for txCodExpedienteExt in df_provinciales['txCodExpedienteExt']:
     url = f'https://apiplataformaelectoral3.jne.gob.pe/api/v1/plan-gobierno/candidatos?IdProcesoElectoral=113&TxCodExpedienteExt={txCodExpedienteExt}'
     resp = requests.get(url=url, verify=False)
     data = resp.json()['data']
     if data != []:
         df = pd.DataFrame(data)
         df['txCodExpedienteExt'] = txCodExpedienteExt
-        df.to_csv(f"listas/{txCodExpedienteExt}.csv")
+        df.to_csv(f"listas_provinciales/{txCodExpedienteExt}.csv")
 
 # LISTAS CON ERRORES: por llenar
 
