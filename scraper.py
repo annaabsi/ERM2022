@@ -1,17 +1,5 @@
 import requests
 import pandas as pd
-import socket
-
-true_socket = socket.socket
-
-def make_bound_socket(source_ip):
-    def bound_socket(*a, **k):
-        sock = true_socket(*a, **k)
-        sock.bind((source_ip, 443))
-        return sock
-    return bound_socket
-
-socket.socket = make_bound_socket('18.64.174.107')
 
 url = "https://api.resultadoserm2022.onpe.gob.pe/results/03/140100"
 headers = {
